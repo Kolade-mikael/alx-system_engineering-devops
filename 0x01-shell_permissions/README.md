@@ -1,1 +1,1 @@
-a script that sets the permission to 007
+ a script that sets the mode of the file hello to john doe
