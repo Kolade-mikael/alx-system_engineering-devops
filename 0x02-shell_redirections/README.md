@@ -1,1 +1,1 @@
-script that prints hello wrld into standard out
+a script that writes hello world in standard output
