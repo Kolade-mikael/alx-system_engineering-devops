@@ -1,1 +1,1 @@
-display the content of file /etc/passwd
+display the content of two files
