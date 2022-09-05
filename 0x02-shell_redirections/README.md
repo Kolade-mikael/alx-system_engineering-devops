@@ -1,1 +1,1 @@
-a script that writes hello world in standard output
+a script that prints hello world in a new line with  standard output
