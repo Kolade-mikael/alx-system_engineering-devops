@@ -1,1 +1,1 @@
-script that duplicates the last line if iacta
+script that deletes all javascript files
