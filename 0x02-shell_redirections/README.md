@@ -1,1 +1,1 @@
-csript that writes output of ls -la into ls_cwd_content
+script that duplicates the last line if iacta
